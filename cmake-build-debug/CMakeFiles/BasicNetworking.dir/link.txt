@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/BasicNetworking.dir/main.cpp.o CMakeFiles/BasicNetworking.dir/BasicNetworking.cpp.o -o BasicNetworking 

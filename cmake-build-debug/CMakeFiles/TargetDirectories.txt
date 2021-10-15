@@ -1,0 +1,3 @@
+/home/daggerwolf45/Documents/BasicNetworking/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/daggerwolf45/Documents/BasicNetworking/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/daggerwolf45/Documents/BasicNetworking/cmake-build-debug/CMakeFiles/BasicNetworking.dir
